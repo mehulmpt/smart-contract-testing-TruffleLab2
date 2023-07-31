@@ -1,1 +1,2 @@
 tabs: ['contracts/Demo.sol']
+terminals: ['yarn install']
